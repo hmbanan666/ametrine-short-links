@@ -1,0 +1,23 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+.pl-30 {
+  padding-left: 30px;
+}
+
+.pr-30 {
+  padding-right: 30px;
+}
+
+.pt-30 {
+  padding-top: 30px !important;
+}
+
+.loading-block {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
